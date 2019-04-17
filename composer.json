@@ -1,0 +1,16 @@
+{
+    "name": "darius/php3-hw",
+    "description": "PHP OOP homework",
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": { "": "src/" }
+    },
+    "authors": [
+        {
+            "name": "Darius Rusencik",
+            "email": "darius.rusencik@gmail.com"
+        }
+    ]
+}
